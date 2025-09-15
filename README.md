@@ -20,12 +20,12 @@ The site was created as **Assignment 1 (Portfolio Site)** and demonstrates navig
 ---
 
 ## 🔗 Links
-- **GitHub Repository:** https://github.com/CC301543171/Portfolio-repo  
-- **Live Site:** https://Portfolio-repo.netlify.app  
+- **GitHub Repository:** https://github.com/CC301543171/Kadin-Chawah-CCRepository 
+- **Live Site:** https://Kadin-Chawah-CCRepository.netlify.app  
 
 ---
 
 ## ⚙️ How to Run Locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/CC301543171/Portfolio-repo.git
+   git clone https://github.com/CC301543171/Kadin-Chawah-CCRepository.git
